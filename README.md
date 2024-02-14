@@ -56,7 +56,7 @@ _Students who already know basic programming in any language can skip this first
 
 ~[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)~
 
-### Core theory (OSSU CS)
+### CS core theory
 
 **Topics covered**:
 `divide and conquer`
@@ -77,6 +77,9 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t)
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz)
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
+
+OR
+[this](https://www.coursera.org/specializations/data-structures-algorithms#courses)
 
 ### Databases
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
@@ -107,11 +110,14 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ### Statistics & Probability
+[MITx: Fundamentals of Statistics](https://www.edx.org/learn/statistics/massachusetts-institute-of-technology-fundamentals-of-statistics) or [Stanford University: Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics)
 [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
 [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+
+[ISL: Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
 
 ### Data Science Tools & Methods
 [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
