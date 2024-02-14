@@ -34,9 +34,6 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 
 ## Curriculum
 
-### Math prerequisites
-
-
 ### Introduction to Data Science
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
@@ -162,6 +159,21 @@ You must share only files that you are allowed. **Do NOT disrespect the code of 
 ## Prerequisites
 
 The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
+
+### How can I review the math prerequisites?
+Many OSSU students choose to review math topics that they have not studied recently.
+OSSU recommends students use Khan Academy for such a review.
+Below are links to topic assessments.
+After taking an assessment, you should have a clear idea what topics to study, and resources on Khan Academy to use.
+
+- [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
+- [Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
+- [Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)
+- [Integrated Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)
+- [Integrated Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge)
+- [Integrated Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge)
+
+(Math 1, 2, 3 covers all of algebra, pre-calculus, high school geometry, trig, stats. It interleaves the order of these topics.)
 
 ## How to contribute
 
