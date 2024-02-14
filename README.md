@@ -34,6 +34,9 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 
 ## Curriculum
 
+### Math prerequisites
+
+
 ### Introduction to Data Science
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
@@ -46,14 +49,37 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
-### Data Structures and Algorithms
-_The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
+### ~~Data Structures and Algorithms~~
 
-[Java Programming](https://java-programming.mooc.fi/)
+~_The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_~
 
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+~[Java Programming](https://java-programming.mooc.fi/)~
 
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+~[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)~
+
+~[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)~
+
+### Core theory (OSSU CS)
+
+**Topics covered**:
+`divide and conquer`
+`sorting and searching`
+`randomized algorithms`
+`graph search`
+`shortest paths`
+`data structures`
+`greedy algorithms`
+`minimum spanning trees`
+`dynamic programming`
+`NP-completeness`
+`and more`
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t)
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz)
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
 
 ### Databases
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
