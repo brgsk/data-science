@@ -35,16 +35,16 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 ## Curriculum
 
 ### Introduction to Data Science
-[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+- [ ] [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 ### Introduction to Computer Science
 _Students who already know basic programming in any language can skip this first course_
 
-[Python for Everybody](https://www.py4e.com/) 
+- [ ] [Python for Everybody](https://www.py4e.com/) 
 
-[Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [ ] [Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
-[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### ~~Data Structures and Algorithms~~
 
@@ -71,69 +71,69 @@ _Students who already know basic programming in any language can skip this first
 `NP-completeness`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t)
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz)
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
+Courses | Duration | Effort | Prerequisites | Discussion | Done
+:-- | :--: | :--: | :--: | :--: | :--:
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | [chat](https://discord.gg/mKRS7tY) | <ul><li>[ ] </li></ul>
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t) | <ul><li>[ ] </li></ul>
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz) | <ul><li>[ ] </li></ul>
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u) | <ul><li>[ ] </li></ul>
 
 OR
-[this](https://www.coursera.org/specializations/data-structures-algorithms#courses)
+- [ ] [this](https://www.coursera.org/specializations/data-structures-algorithms#courses)
 
 ### Databases
-[Database Management Essentials](https://www.coursera.org/learn/database-management)
+- [ ] [Database Management Essentials](https://www.coursera.org/learn/database-management)
 
-[Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign)
+- [ ] [Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign)
 
-[Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational)
+- [ ] [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational)
 
-[Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools)
+- [ ] [Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools)
 
-[Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building)
+- [ ] [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building)
 
-[MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
+- [ ] [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
 
 ### Single Variable Calculus
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
+- [ ] [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
 
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
+- [ ] [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
+- [ ] [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
 
 ### Linear Algebra
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+- [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 ### Multivariable Calculus
-[Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+- [ ] [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ### Statistics & Probability
-[MITx: Fundamentals of Statistics](https://www.edx.org/learn/statistics/massachusetts-institute-of-technology-fundamentals-of-statistics) or [Stanford University: Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics)
-[Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
+- [ ] [MITx: Fundamentals of Statistics](https://www.edx.org/learn/statistics/massachusetts-institute-of-technology-fundamentals-of-statistics) or [Stanford University: Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics)
+- [ ] [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
-[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-[ISL: Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
+- [ ] [ISL: Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
 
 ### Data Science Tools & Methods
-[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
+- [ ] [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
 
-[Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
+- [ ] [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
 
-[Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
+- [ ] [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
 
 ### Machine Learning/Data Mining
-[Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
-[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
+- [ ] [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 
-[Process Mining](https://www.coursera.org/learn/process-mining)
+- [ ] [Process Mining](https://www.coursera.org/learn/process-mining)
 
 ## How to use this guide
 
